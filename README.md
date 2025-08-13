@@ -13,7 +13,7 @@
 2. Réservation des propriétés (Maison, Appartement, etc.)
 3. Design responsive avec TailwindCSS sur toutes les pages (Acceuil, Tableau de bord utilisateur/admin, etc.)
 4. Créer, Modifier, Supprimer, et Afficher des réservations et des propriétés dans le tableau de bord Filament
-5. Certains composants ont été créé avec Livewire (PropertyCard, ReservationModal)
+5. Certains composants ont été créés avec Livewire (PropertyCard, ReservationModal)
 
 #### Design
 
@@ -76,7 +76,17 @@ $ php artisan migrate
 $ php artisan db:seed
 ```
 
-Et c'est tout. Normalement, le lien local de l'appli c'est: 
+Et c'est tout. Maintenant, tout ce qui reste c'est lancer des serveurs Vite et Laravel:
+
+```
+$ php artisan serve
+```
+
+```
+$ npm run dev
+```
+
+Normalement, le lien local de l'appli c'est: 
 
 ```
 http://localhost:8000

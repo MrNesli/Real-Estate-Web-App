@@ -8,7 +8,7 @@
         <h1 class="max-w-[80%] font-maharlika font-bold text-white text-center text-2xl sm:text-3xl md:text-4xl xl:text-6xl mb-6">Laissez-nous vous aider à trouver la propriète que vous méritez. </h1>
 
         <div class="flex flex-col">
-            <a class="text-center font-dmsans font-medium text-sm text-black bg-white px-6 py-3 uppercase xl:text-lg xl:px-8 xl:py-4" href="#">Réserver une maison</a>
+            <a class="text-center font-dmsans font-medium text-sm text-black bg-white px-6 py-3 uppercase xl:text-lg xl:px-8 xl:py-4" href="#properties">Réserver une maison</a>
         </div>
     </div>
 </header>

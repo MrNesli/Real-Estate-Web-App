@@ -1,4 +1,4 @@
-<footer class="bg-[#f1e3f0] py-14">
+<footer id="contact" class="bg-[#f1e3f0] py-14">
     <div class="flex flex-col sm:flex-row sm:items-start sm:justify-center items-center">
         <div class="flex flex-col items-center sm:mr-20">
             <h2 class="font-maharlika font-semibold text-2xl text-center capitalize mb-8 text-[#53494c] md:text-3xl xl:text-4xl">Laravel agence immobilière</h2>

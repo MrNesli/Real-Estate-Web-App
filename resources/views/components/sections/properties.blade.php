@@ -1,4 +1,4 @@
-<section class="bg-[#fff2ff] py-14">
+<section id="properties" class="bg-[#fff2ff] py-14">
     <div class="flex flex-col items-center">
         <h2 class="font-maharlika text-xl xs:text-2xl sm:text-3xl md:text-4xl lg:mb-10">Nos propriètés disponibles</h2>
 
